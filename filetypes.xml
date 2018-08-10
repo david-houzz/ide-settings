@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="QuestionsApiMarkdownTest.php" type="PHP" />
+      <mapping pattern="feature-discussions-value" type="PLAIN_TEXT" />
+      <mapping ext="hh" type="VTL" />
+    </extensionMap>
+  </component>
+</application>
