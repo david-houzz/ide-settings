@@ -53,7 +53,6 @@
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
