@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="QuestionsApiMarkdownTest.php" type="PHP" />
       <mapping pattern="feature-discussions-value" type="PLAIN_TEXT" />
+      <mapping pattern="clf" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="hh" type="VTL" />
     </extensionMap>
