@@ -1,9 +1,4 @@
 <code_scheme name="Houzz" version="173">
-  <option name="OTHER_INDENT_OPTIONS">
-    <value>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </value>
-  </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50" />
