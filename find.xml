@@ -20,5 +20,6 @@
     <mask>*.py</mask>
     <mask>*.php</mask>
     <mask>*.thrift</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
