@@ -5,7 +5,6 @@
       <mapping pattern="clf" type="PLAIN_TEXT" />
       <mapping pattern="feature-discussions-value" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="hh" type="VTL" />
     </extensionMap>
   </component>
