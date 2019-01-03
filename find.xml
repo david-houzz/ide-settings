@@ -20,8 +20,8 @@
     <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>*.SQL</mask>
-    <mask>*.sql</mask>
     <mask>*.thrift</mask>
+    <mask>*.sql</mask>
     <mask>*.php</mask>
   </component>
 </application>
