@@ -18,10 +18,10 @@
     <mask>*.txt</mask>
     <mask>*.cql</mask>
     <mask>*.py</mask>
-    <mask>*.js</mask>
     <mask>*.SQL</mask>
     <mask>*.thrift</mask>
     <mask>*.sql</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
 </application>
