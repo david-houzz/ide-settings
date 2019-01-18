@@ -2,17 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="QuestionsApiMarkdownTest.php" type="PHP" />
       <mapping pattern="clf" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="feature-discussions-value" type="PLAIN_TEXT" />
-      <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="thrift" type="PLAIN_TEXT" />
-      <removed_mapping ext="cql" type="SQL" />
       <mapping ext="hh" type="VTL" />
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
-      <removed_mapping ext="cql" type="SQL" />
     </extensionMap>
   </component>
 </application>
